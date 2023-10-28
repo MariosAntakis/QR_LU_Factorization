@@ -1,3 +1,3 @@
 # QR_LU_Factorization
 
-This is a bonus project which I did as a part of the numerical analysis course in the 4th semester of my studies implementig Lu and QR factorization.
+This bonus project was undertaken during the fourth semester of my academic studies as part of the Numerical Analysis course, involving the implementation of both LU and QR factorization methods
